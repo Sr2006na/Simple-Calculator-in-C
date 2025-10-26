@@ -36,7 +36,3 @@ gcc calculator.c -o calculator
 * Choose the operation you want to perform: add, subtract, multiply, or divide.
 * The result will be displayed.
 * You can continue performing calculations until you choose to exit.
-
-
-
-If you want, I can also **add a “Screenshots” section and example output** to make your README more appealing on GitHub. Do you want me to do that?
